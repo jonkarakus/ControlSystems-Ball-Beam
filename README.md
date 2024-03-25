@@ -6,9 +6,9 @@ This project aims to design and implement a control system for a Ball and Beam s
 
 ## Objectives
 
-- **Settling Time:** Achieve a settling time of less than X seconds.
-- **Steady State Error:** Maintain a steady state error within Y% of the target position.
-- **Percent Overshoot:** Limit the percent overshoot to Z%.
+- **Settling Time:** Achieve a settling time of less than 2 seconds.
+- **Steady State Error:** Maintain a steady state error under 0.5 cm.
+- **Percent Overshoot:** Limit the percent overshoot to 5.0%.
 
 ## Methodology
 
