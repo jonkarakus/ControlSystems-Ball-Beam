@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to design and implement a control system for a Ball and Beam system, focusing on achieving targeted settling time, steady state error, and percent overshoot. We employ Proportional-Derivative (PD) control and Root Locus techniques to optimize the system's performance according to the specified criteria.
+This project aims to design and implement controls for a Ball and Beam system, focusing on achieving targeted settling time, steady state error, and percent overshoot. We employ Proportional-Derivative (PD) control and Root Locus techniques to optimize the system's performance according to the specified criteria.
 
 Download: "Ball&Beam Project Documentation" to view technical analysis and report on project
 
